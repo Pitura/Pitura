@@ -6,7 +6,7 @@ CodersLab course final project:
 https://geriatria30plus.netlify.app/
 
 Latest project:
-https://boisterous-kulfi-bc28e0.netlify.app
+
 
 <!---
 Pitura/Pitura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
