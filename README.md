@@ -8,6 +8,8 @@ https://geriatria30plus.netlify.app/
 Currently working on:
 https://github.com/Pitura/charity-webpage
 
+Currently working on:
+https://github.com/Pitura/grosik-app
 
 <!---
 Pitura/Pitura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
