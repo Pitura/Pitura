@@ -7,8 +7,7 @@ https://geriatria30plus.netlify.app/
 
 Currently working on:
 https://github.com/Pitura/charity-webpage
-
-Currently working on:
+&&
 https://github.com/Pitura/grosik-app
 
 <!---
