@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Pitura - freshly baked Junior Front-end Developer! 
-- 👀 I’m interested in developing my developer skills!
 - 🌱 I’m currently learning Next.JS and TypeScript
 
 CodersLab course final project:
