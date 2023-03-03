@@ -4,7 +4,7 @@
 CodersLab course final project:
 https://geriatria30plus.netlify.app/
 
-Currently working on:
+Ongoing projects:
 https://github.com/Pitura/charity-webpage
 &&
 https://github.com/Pitura/grosik-app
